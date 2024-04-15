@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374595059947",
+    "project_id": "poorman-78042",
+    "storage_bucket": "poorman-78042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374595059947:android:1f25e265e1d2f35489beae",
+        "android_client_info": {
+          "package_name": "com.example.poorman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLGO6d1PlOS62Qo5WFEcYAKtDn7j2wS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
